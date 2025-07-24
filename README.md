@@ -1,3 +1,8 @@
+# Hi there 👋
+
+![Profile views](https://komarev.com/ghpvc/?username=DavidIbrahimG&color=blue)
+
+
 # 👋 Welcome to David Godiah's GitHub Profile! 🌟
 
 Hello! I'm **David Godiah**, a **Machine Learning Engineer** and **Data Scientist** based in **Ireland**. My passion lies in building **scalable machine learning systems**, optimizing data pipelines, and deploying cutting-edge models for real-world applications. I specialize in **MLOps**, **deep learning**, and **cloud computing**, with a focus on making AI solutions production-ready.
