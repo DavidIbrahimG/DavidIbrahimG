@@ -5,101 +5,89 @@
 
 # 👋 Welcome to David Godiah's GitHub Profile! 🌟
 
-Hello! I'm **David Godiah**, a **Machine Learning Engineer** and **Data Scientist**. My passion lies in building **scalable machine learning systems**, optimizing data pipelines, and deploying cutting-edge models for real-world applications. I specialize in **MLOps**, **deep learning**, and **cloud computing**, with a focus on making AI solutions production-ready.
+Hello! I'm **David Godiah** — a **Machine Learning Engineer** and **Data Scientist** passionate about building **end-to-end AI systems** that bridge traditional machine learning with **next-generation Generative AI**.  
+
+I design and deploy **scalable, production-ready AI and ML solutions** — from **data ingestion** and **model development** to **RAG pipelines**, **LLM integration**, and **agentic AI systems**. My focus is on transforming raw data and unstructured content into actionable intelligence that drives real-world impact.  
 
 ---
 
 ## 🚀 Technologies & Tools I Leverage
 
-### **Machine Learning & Data Science**
+### 🧠 **Artificial Intelligence, Machine Learning & Data Science**
 
-I use a diverse set of machine learning tools and techniques to build high-impact solutions, such as:
+I combine classic ML expertise with cutting-edge GenAI capabilities to deliver intelligent, high-performance solutions across domains.
 
-- **Supervised & Unsupervised Learning**:  
-  🔍 Linear Regression, Decision Trees, Random Forests, SVM, KNN, XGBoost, etc.
-
-- **Deep Learning**:  
-  🧠 TensorFlow, Keras, PyTorch, CNNs, RNNs, LSTMs, ResNet50, Transfer Learning, Attention Mechanisms (SE-ResNet), etc.
-
-- **Natural Language Processing (NLP)**:  
-  🗣️ Text Classification, Sentiment Analysis, Named Entity Recognition (NER), BERT, GPT, Language Models, etc.
-
-- **Time Series Analysis**:  
-  ⏳ ARIMA, SARIMA, LSTM for forecasting, trend analysis, anomaly detection, etc.
-
-- **Model Evaluation & Optimization**:  
-  📊 Cross-Validation, Hyperparameter Tuning (GridSearchCV, RandomSearchCV), Precision, Recall, AUC-ROC, etc.
-
-- **Statistical Analysis**:  
-  📉 Hypothesis Testing, Statistical Significance, p-values, Bayesian Inference, etc.
+- **Machine Learning:**  
+  🔍 Linear Regression, Decision Trees, Random Forests, XGBoost, SVM, KNN, Clustering, Dimensionality Reduction  
+- **Deep Learning:**  
+  🧠 TensorFlow, PyTorch, CNNs, RNNs, LSTMs, ResNet, Attention Mechanisms, Transfer Learning  
+- **Generative AI & LLMs:**  
+  💬 OpenAI (GPT), Groq, Ollama, Hugging Face Transformers, Prompt Engineering, Fine-Tuning, Model Evaluation  
+- **Retrieval-Augmented Generation (RAG):**  
+  🔗 LangChain, LangGraph, CrewAI for agent orchestration and tool-use workflows  
+  🧩 Vector Databases: Pinecone, Chroma, FAISS, AstraDB for semantic search and contextual retrieval  
+- **NLP Applications:**  
+  🗣️ Text Classification, Summarization, Entity Recognition, Conversational AI  
+- **Time Series & Predictive Analytics:**  
+  ⏳ ARIMA, SARIMA, Prophet, LSTM forecasting  
+- **Statistical Analysis & Optimization:**  
+  📉 A/B Testing, Bayesian Modelling, Cross-Validation, Hyperparameter Tuning  
 
 ---
 
-### **MLOps & Deployment**
+### ⚙️ **MLOps, Deployment & Cloud Engineering**
 
-With a strong focus on deploying scalable and production-ready machine learning models, I leverage the following **MLOps** tools and practices:
+I ensure models aren’t just accurate — they’re **reliable, reproducible, and scalable** in production.
 
-- **MLOps**:  
-  🔄 Continuous Integration/Continuous Deployment (CI/CD) for ML models, version control for models using **DVC**, **MLflow** for model tracking and management, and **Kubeflow** for orchestrating ML pipelines.
-
-- **Model Deployment**:  
-  🚀 **Docker** & **Kubernetes** for containerization and orchestration, enabling seamless model deployment in cloud environments and on-premise servers.
-
-- **Cloud Platforms & Deployment**:  
-  ☁️ **AWS**, **Google Cloud Platform (GCP)**, **Azure** for scalable, secure deployment of models. I utilize **AWS S3**, **Lambda**, and **Google Cloud Functions** for serverless deployment and **EC2** for large-scale model training and deployment.
-
-- **API Development**:  
-  🔧 **Flask**, **FastAPI** for creating REST APIs, enabling real-time predictions and integration with web applications.
-
-- **Data Pipelines & Automation**:  
-  ⚙️ **Apache Airflow** for managing workflows, **ETL pipelines** for data transformation and integration, and **Apache Spark** for handling large-scale data processing.
-
-- **Monitoring & Logging**:  
-  🧰 **Prometheus**, **Grafana** for monitoring model performance and system health, and **Sentry** for real-time error tracking.
+- **MLOps Pipelines:**  
+  🔄 CI/CD for ML models, experiment tracking with **MLflow** and **DVC**, orchestration using **Kubeflow**  
+- **Deployment & Infrastructure:**  
+  🚀 Containerization with **Docker** and orchestration with **Kubernetes**  
+  ☁️ Deployments on **AWS**, **GCP**, and **Azure** (EC2, Lambda, Cloud Functions)  
+- **API & Microservice Development:**  
+  🔧 Serving models via **Flask** and **FastAPI** for real-time inference  
+- **Data Pipelines & Automation:**  
+  ⚙️ **Apache Airflow**, **Spark**, and custom ETL processes for data management  
+- **Monitoring & Observability:**  
+  🧰 **Prometheus**, **Grafana**, and **Sentry** for performance tracking and alerting  
 
 ---
 
-### **Programming & Development Tools**
+### 🧩 **Programming, Tools & Development Ecosystem**
 
-I use a combination of languages and development tools to ensure efficient model building and deployment:
-
-- **Programming Languages**:  
-  💻 **Python**, **SQL**, **PHP**
-
-- **Frameworks & Libraries**:  
-  🔧 **TensorFlow**, **PyTorch**, **Keras**, **scikit-learn**, **Pandas**, **Numpy**, **Matplotlib**, **Seaborn**, **Hugging Face Transformers**
-
-- **Version Control**:  
-  ⚙️ **Git**, **GitHub**, **GitLab** for versioning, collaboration, and code sharing.
-
-- **DevOps & Infrastructure**:  
-  🏗️ **Docker**, **Kubernetes**, **Terraform** for infrastructure automation, **CI/CD pipelines** for automated testing and deployment.
+- **Languages:** Python • SQL • PHP  
+- **Libraries:** scikit-learn • Pandas • NumPy • Matplotlib • Seaborn • Transformers  
+- **Version Control:** Git • GitHub • GitLab  
+- **DevOps & Infrastructure:** Docker • Kubernetes • Terraform • CI/CD Pipelines  
 
 ---
 
-## 🌱 Currently Learning & Exploring
+## 🌱 **Currently Exploring**
 
-- **MLOps**: Continuing to deepen my expertise in integrating machine learning workflows with DevOps practices for seamless model deployment and monitoring.
-- **Reinforcement Learning**: Exploring the applications of RL in real-world optimization problems.
-- **Edge AI**: Building models that run efficiently on edge devices for low-latency, real-time decision-making.
-
----
-
-## 📚 Get In Touch
-
-- 📧 **Email**: [davidibrahimg@gmail.com](mailto:davidibrahimg@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/david-godiah-72161520b](http://linkedin.com/in/david-godiah-72161520b)
-- 🖥️ **GitHub**: [github.com/DavidIbrahimG](https://github.com/DavidIbrahimG)
+- ⚡ **Retrieval-Augmented Generation (RAG):** optimizing contextual retrieval with LangChain and vector DBs  
+- 🤖 **Agentic AI Systems:** designing autonomous agents with CrewAI and LangGraph  
+- 🧩 **LLM Deployment:** integrating OpenAI, Groq, and Ollama APIs into production ML systems  
+- 🧠 **Responsible & Explainable AI (XAI):** improving interpretability and transparency of deep learning models  
 
 ---
 
-## 💻 GitHub Stats
+## 📫 **Let’s Connect**
+
+- 📧 **Email:** [davidibrahimg@gmail.com](mailto:davidibrahimg@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/david-godiah-72161520b](http://linkedin.com/in/david-godiah-72161520b)  
+- 🖥️ **GitHub:** [github.com/DavidIbrahimG](https://github.com/DavidIbrahimG)  
+
+---
+
+## 💻 **GitHub Stats**
 
 ![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DavidIbrahimG&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidIbrahimG&layout=compact&theme=radical)
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to explore my repositories, connect with me, or collaborate on interesting projects. Let’s build amazing things together! ✨
+Thanks for visiting my profile!  
+I’m always open to collaborating on **ML, GenAI, and MLOps projects** — let’s build the next generation of intelligent systems together. 🚀  
 
 ---
 
