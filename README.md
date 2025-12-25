@@ -5,7 +5,7 @@
 
 # 👋 Welcome to David's GitHub Profile! 🌟
 
-Hello! I'm **David Godiah** — a **Machine Learning Engineer** and **Data Scientist** passionate about building **end-to-end AI systems** that bridge traditional machine learning with **next-generation Generative AI**.  
+Hello! I'm **David** — a **Machine Learning Engineer** and **Data Scientist** passionate about building **end-to-end AI systems** that bridge traditional machine learning with **next-generation Generative AI**.  
 
 I design and deploy **scalable, production-ready AI and ML solutions** — from **data ingestion** and **model development** to **RAG pipelines**, **LLM integration**, and **agentic AI systems**. My focus is on transforming raw data and unstructured content into actionable intelligence that drives real-world impact.  
 
