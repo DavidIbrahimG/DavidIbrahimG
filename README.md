@@ -3,7 +3,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=DavidIbrahimG&color=blue)
 
 
-# 👋 Welcome to David Godiah's GitHub Profile! 🌟
+# 👋 Welcome to David's GitHub Profile! 🌟
 
 Hello! I'm **David Godiah** — a **Machine Learning Engineer** and **Data Scientist** passionate about building **end-to-end AI systems** that bridge traditional machine learning with **next-generation Generative AI**.  
 
